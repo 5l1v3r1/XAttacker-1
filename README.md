@@ -7,7 +7,7 @@
 <h2>X Attacker 2020</h2>
 
 X Attacker Tool Website Vulnerability Scanner & Auto Exploiter
-<gif src="/images.jpeg" data-canonical-src="/images.jpeg" style="max-width:100%;">
+<img src="/images.jpeg" data-canonical-src="/images.jpeg" style="max-width:100%;">
 
 <b>[+] Auto Cms Detect<b>
 
