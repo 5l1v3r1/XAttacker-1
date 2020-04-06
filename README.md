@@ -157,7 +157,7 @@ SQL injection
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-git clone https://github.com/Moham3dRiahi/XAttacker.git
+git clone https://github.com/ahmadchen/XAttacker.git
 cd XAttacker
 perl XAttacker.pl
 ```
@@ -169,7 +169,7 @@ Follow This Video [SSTec Tutorials](https://www.youtube.com/BerbagiIlmuDanAkalSe
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
-git clone https://github.com/Moham3dRiahi/XAttacker.git
+git clone https://github.com/ahmadchen/XAttacker.git
 cd XAttacker
 chmod +x termux-install.sh
 bash termux-install.sh
